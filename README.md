@@ -116,11 +116,6 @@ Air Domain (R = 300 mm) ──────────────────�
 - Capsule and colon surfaces: No-slip (spf)
 - Outer air domain: Infinite Element Domain (open magnetic boundary)
 
-| | |
-|---|---|
-| ![Complete computational domain enclosed in spherical air domain with finite element mesh](figures/fig1_full_domain_mesh.png) | ![Cross-sectional view of the spherical capsule assembly showing the cylindrical permanent magnet centred within the capsule shell](figures/fig3_capsule_cross_section.png) |
-| *Fig 1 — Complete computational domain: the spherical air domain (R = 300 mm) encloses the electromagnet assembly, the colon segment, and the capsule. The Finer physics-controlled mesh is visible with denser elements near critical interfaces.* | *Fig 3 — Capsule assembly cross-section: the cylindrical NdFeB N52 permanent magnet (R = 3 mm, L = 10 mm) centred inside the capsule shell (R = 13 mm). Magnetisation vector aligned along the z-axis for axial propulsion.* |
-
 ---
 
 ## Governing Equations
