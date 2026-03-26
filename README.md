@@ -240,15 +240,7 @@ Module 4: Anomaly Detection
 capsule-endoscopy-multiphysics/
 │
 ├── comsol/
-│   ├── capsule_endoscopy_v1.mph        # Full COMSOL model file
-│   ├── stationary_mf_validation.mph    # Magnetic field study only
-│   └── mesh_config_notes.txt           # Mesh strategy documentation
-│
-├── results/
-│   ├── magnetic_field_distribution/    # B-field plots (stationary)
-│   ├── flow_streamlines/               # Velocity field + recirculation
-│   ├── von_mises_stress/               # Tissue stress contours
-│   └── validation_table.csv           # Table 2 — performance metrics
+│   ├── capsule_endoscopy.mph        # Full COMSOL model file
 │
 ├── figures/
 │   ├── passive_vs_active_wce.png       # Passive vs active navigation comparison
@@ -260,9 +252,6 @@ capsule-endoscopy-multiphysics/
 │   ├── fig3_capsule_cross_section.png  # Capsule assembly cross-section
 │   ├── fig4_colon_capsule_mesh.png     # Boundary layer mesh at colon–capsule interface
 │   └── fig5_pm_mesh_refinement.png     # Refined mesh around permanent magnet
-│
-├── report/
-│   └── ME_F376_Capsule_Endoscopy_Report.pdf
 │
 └── README.md
 ```
