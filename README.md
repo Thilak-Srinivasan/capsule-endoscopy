@@ -252,7 +252,7 @@ capsule-endoscopy-multiphysics/
 ## How to Reproduce
 
 1. **Software:** COMSOL Multiphysics 6.3 with AC/DC, CFD, Structural Mechanics, and ALE modules.
-2. Open `comsol/capsule_endoscopy_v1.mph`.
+2. Open `comsol/capsule_endoscopy.mph`.
 3. Run **Study 1 (Stationary)** first — validates magnetic field distribution and confirms F_mag ≥ 78.4 mN.
 4. Run **Study 2 (Time-Dependent)** — computes capsule displacement, contact pressure, and flow field over 10 s.
 5. Post-process using the Derived Values feature to extract integrated force, max contact pressure, and flow rate error.
