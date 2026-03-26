@@ -167,9 +167,6 @@ Config C2 — Locomotion Phase
 
 The 30 mm reduction in distance (C1→C2) compensates for the geometric efficiency loss from the 90° rotation and maintains the required F_target.
 
-![Electromagnet coil design in Configuration C2 — hollow copper coil winding with iron core](figures/fig2_electromagnet_c2.png)
-*Fig 2 — Electromagnet assembly in Configuration C2 (Locomotion Phase): hollow copper coil winding (inner Ø 70 mm, outer Ø 130 mm, H = 110 mm, 550 turns) with a high-permeability iron core (μ_r = 2000) centred inside. The coil axis is horizontal, maximising the axial drag-force gradient along the abdominal wall at 70 mm operating distance.*
-
 ---
 
 ## Finite Element Mesh Strategy
