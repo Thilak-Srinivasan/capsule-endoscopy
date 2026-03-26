@@ -243,6 +243,8 @@ capsule-endoscopy-multiphysics/
 │   ├── passive_vs_active_wce.png       # Passive vs active navigation comparison
 │   ├── force_validation_bar_chart.png  # 78.4 mN target vs 100 mN simulated
 │   ├── contact_pressure_mesh.png       # FEM mesh + contact pressure annotation
+│   ├── colon_capsule_mesh.png     # Boundary layer mesh at colon–capsule interface
+│   └── pm_mesh_refinement.png     # Refined mesh around permanent magnet
 │
 └── README.md
 ```
