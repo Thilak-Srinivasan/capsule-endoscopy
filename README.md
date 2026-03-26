@@ -244,14 +244,8 @@ capsule-endoscopy-multiphysics/
 │
 ├── figures/
 │   ├── passive_vs_active_wce.png       # Passive vs active navigation comparison
-│   ├── multiphysics_coupling_diagram.png  # 4-way coupling schematic
 │   ├── force_validation_bar_chart.png  # 78.4 mN target vs 100 mN simulated
 │   ├── contact_pressure_mesh.png       # FEM mesh + contact pressure annotation
-│   ├── fig1_full_domain_mesh.png       # Complete computational domain mesh
-│   ├── fig2_electromagnet_c2.png       # Electromagnet coil (Config C2)
-│   ├── fig3_capsule_cross_section.png  # Capsule assembly cross-section
-│   ├── fig4_colon_capsule_mesh.png     # Boundary layer mesh at colon–capsule interface
-│   └── fig5_pm_mesh_refinement.png     # Refined mesh around permanent magnet
 │
 └── README.md
 ```
