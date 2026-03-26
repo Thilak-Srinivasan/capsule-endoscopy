@@ -67,9 +67,6 @@ Standard passive WCE relies on peristalsis to move the capsule, giving the physi
 **Segregated solver order:** mf → spf → solid → ale  
 This order respects causality: magnetic force drives capsule motion, which drives fluid redistribution, which deforms the colon wall, which displaces the mesh.
 
-![4-way multiphysics coupling diagram with electromagnet assembly](figures/multiphysics_coupling_diagram.png)
-*The four physics modules surrounding the electromagnet assembly (COMSOL 6.3). Clockwise from top-left: Magnetic Fields (Config C2, perpendicular orientation for max drag gradient) → Laminar Flow (chyme, μ = 0.01 Pa·s) → Solid Mechanics (colon wall, E = 0.5 MPa, ν = 0.49) → ALE Moving Mesh (Laplace smoothing for large FSI deformations).*
-
 ---
 
 ## System Design Parameters
