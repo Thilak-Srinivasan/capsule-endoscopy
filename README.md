@@ -178,7 +178,7 @@ The 30 mm reduction in distance (C1→C2) compensates for the geometric efficien
 
 | | |
 |---|---|
-| ![High-resolution mesh refinement at the colon-capsule interface showing boundary layer elements](figures/fig4_colon_capsule_mesh.png) | ![Refined tetrahedral mesh around the permanent magnet inside the capsule](figures/fig5_pm_mesh_refinement.png) |
+| ![High-resolution mesh refinement at the colon-capsule interface showing boundary layer elements](figures/colon_capsule_mesh.png) | ![Refined tetrahedral mesh around the permanent magnet inside the capsule](figures/pm_mesh_refinement.png) |
 | *Boundary layer refinement at the colon–capsule interface. The darker, densely packed elements along the colon inner wall and capsule surface resolve the hydrodynamic boundary layer and viscous drag accurately. Minimum element quality > 0.1.* | *Mesh refinement around the permanent magnet (PM) inside the capsule domain. The refined tetrahedral elements enable accurate numerical integration of the magnetic field gradient ∇B and precise computation of the propulsion force.* |
 
 ---
